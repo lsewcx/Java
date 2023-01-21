@@ -1,0 +1,6 @@
+//java读入字符串
+Scanner sc = new Scanner(System.in);
+String a = sc.next(), b = sc.next(), c = sc.next();
+
+
+if ("vertebrado".equals(a))//字符串比较.equals
