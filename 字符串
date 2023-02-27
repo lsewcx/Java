@@ -4,3 +4,6 @@ String a = sc.next(), b = sc.next(), c = sc.next();
 
 
 if ("vertebrado".equals(a))//字符串比较.equals
+
+
+str.toCharArray()//将字符串转换成字符串数组
