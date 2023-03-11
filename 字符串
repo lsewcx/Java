@@ -7,3 +7,5 @@ if ("vertebrado".equals(a))//字符串比较.equals
 
 
 str.toCharArray()//将字符串转换成字符串数组
+
+ int res = a.compareTo(b);//a和b作比较小于是-1大于是1等于是0
